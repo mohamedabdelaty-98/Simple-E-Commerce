@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "Animi Dolor Pariatur",
+    "price": 19.0,
+    "category": "decoration",
+    "image": "./images/product-1.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 2,
+    "name": "Artificial potted plant",
+    "price": 40.0,
+    "category": "decoration",
+    "image": "./images/product-3.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 3,
+    "name": "Smooth Disk",
+    "price": 46.0,
+    "category": "decoration",
+    "image": "./images/product-11.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 4,
+    "name": "Unique Decoration",
+    "price": 15.0,
+    "category": "decoration",
+    "image": "./images/product-15.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 5,
+    "name": "Vase Of Flowers",
+    "price": 77.0,
+    "category": "decoration",
+    "image": "./images/product-16.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 6,
+    "name": "Wood Eggs",
+    "price": 19.0,
+    "category": "decoration",
+    "image": "./images/product-17.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 7,
+    "name": "Wooden Box",
+    "price": 27.0,
+    "category": "decoration",
+    "image": "./images/product-18.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 8,
+    "name": "Out of Stock",
+    "price": 30.0,
+    "category": "accessory",
+    "image": "./images/product-2.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 9,
+    "name": "Dark Green Jug",
+    "price": 17.1,
+    "category": "accessory",
+    "image": "./images/product-4.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 10,
+    "name": "Drinking Glasses",
+    "price": 21.0,
+    "category": "accessory",
+    "image": "./images/product-5.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 11,
+    "name": "High Quality Glass Bottle",
+    "price": 30.1,
+    "category": "accessory",
+    "image": "./images/product-7.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 12,
+    "name": "Living Room & Bedroom Lights",
+    "price": 45.0,
+    "category": "accessory",
+    "image": "./images/product-8.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 13,
+    "name": "Teapot with black tea",
+    "price": 25.0,
+    "category": "accessory",
+    "image": "./images/product-14.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 14,
+    "name": "Wooden Cups",
+    "price": 29.0,
+    "category": "accessory",
+    "image": "./images/product-19.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 15,
+    "name": "Helen Chair",
+    "price": 69.5,
+    "category": "furniture",
+    "image": "./images/product-6.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 16,
+    "name": "Nancy Chair",
+    "price": 90.0,
+    "category": "furniture",
+    "image": "./images/product-9.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 17,
+    "name": "Simple Chair",
+    "price": 40.0,
+    "category": "furniture",
+    "image": "./images/product-10.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 18,
+    "name": "Table Black",
+    "price": 67.0,
+    "category": "furniture",
+    "image": "./images/product-12.jpg",
+    "Numberofitem": 1
+  },
+  {
+    "id": 19,
+    "name": "Table Wood Pine",
+    "price": 50.0,
+    "category": "furniture",
+    "image": "./images/product-13.jpg",
+    "Numberofitem": 1
+  }
+]
